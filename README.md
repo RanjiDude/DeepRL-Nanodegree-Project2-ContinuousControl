@@ -1,1 +1,1 @@
-# DeepRL-Nanodegree-Project2-ContinuousControl
+# DeepRL-Nanodegree-Project2 (ContinuousControl)
