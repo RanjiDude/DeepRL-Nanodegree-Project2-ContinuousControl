@@ -14,7 +14,7 @@ The task is episodic and in order to solve the environment, our agent must achie
 
 ### Download Instructions
 
-Here are the instructions to folllow if you'd like to try out this agent on your machine. First you'll need at least Python 3.6 installed on your system. You will also need these libraries to help run the code. Most of these can be installed using the 'pip install' command on your terminal once Python has been installed.
+Here are the instructions to follow if you'd like to try out this agent on your machine. First you'll need at least Python 3.6 installed on your system. You will also need these libraries to help run the code. Most of these can be installed using the 'pip install' command on your terminal once Python has been installed.
 
 1. numpy - NumPy is the fundamental package for scientific computing with Python
 1. collections - High-performance container datatypes
