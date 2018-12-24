@@ -53,7 +53,7 @@ def ddpg(n_episodes=500, max_t=1000):
             agent.step(states, actions, rewards, next_states, dones, t) # The agent learns from a sampled set of experiences
 
             states = next_states                            # Set the state as the new_state of the env
-            score += rewards                          # Update the scores based on rewards
+            score += rewards                                # Update the scores based on rewards
 
             if np.any(dones):                               # Break the loop after the episode is done
                 break
