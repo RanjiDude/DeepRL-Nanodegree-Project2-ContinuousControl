@@ -2,7 +2,8 @@
 
 ## Learning Algorithm
 
-The model used for training the agent was an Actor-Critic network which a local and target network for both the Actor and Critic.
+The learning algorithm used for this project was an Actor-Critic network with a local and target network for both the Actor and Critic.
+I used the algorithm from 
 So overall, we have four neural networks that update periodically. The architecture of the networks is very similar and can be described as follows:
 
 - Input Layer: State size (which happens to be 33 in our case)
